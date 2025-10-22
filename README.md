@@ -3,7 +3,7 @@ Perl script to simulate admixture X generations ago between two specified popula
 
 author: Garrett Hellenthal
 
-~please note this is a development version and may have lots of bugs~
+*please note this is a development version and may have lots of bugs*
 
 Edit perl script to use
 
